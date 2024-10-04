@@ -54,7 +54,7 @@ widgets_placeforget =[]
 
 # Credits text:
 
-with open('C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Text_Credits.txt','r') as f:
+with open('<your_relative_path>/Text_Credits.txt','r') as f:
     credit_lines = f.readlines()
 
 credits_text = ""
@@ -69,7 +69,7 @@ for line in credit_lines:
 # USER DATA: 
 found_user = False
 
-with open('C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Music_userdata.txt','r') as g:
+with open('<your_relative_path>/Music_userdata.txt','r') as g:
     user_data = [line.strip()for line in g]
     
 #print(user_data)
@@ -89,7 +89,7 @@ class Music():
         self.era = era
 
 ##GET THE SONG DATA FROM THE TXT FILE:
-with open('C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Infocançons.txt','r') as f:
+with open('<your_relative_path>/Infocançons.txt','r') as f:
     song_data = [line.strip()for line in f]
 
 #with open('Music_userdata','r') as g:
@@ -208,7 +208,7 @@ class App(ctk.CTk):
         self.paused = True
         self.inplaylist = False
         self.value_per_song = dict()
-        self.general_imagepath = "C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Images/"
+        self.general_imagepath = "<your_relative_path>/Images/"
 
         self.play_image = ctk.CTkImage(Image.open(self.general_imagepath+"playbutton_icon.png"))
         self.returnbutton_image = ctk.CTkImage(Image.open(self.general_imagepath+"returnbutton_icon.png"))
@@ -965,7 +965,7 @@ class PlayList(App):
                 break
         l = list(self.playlist_songs)
         for i,s in enumerate(l):
-            shortened_s = s.replace("C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Music/","")
+            shortened_s = s.replace("<your_relative_path>/Music/","")
             shortened_s = shortened_s.replace(".wav","")
             if len(shortened_s)>35: shortened_s = shortened_s[:34] + "..."
             l[i]= str(i+1) + ". " + shortened_s
@@ -1158,14 +1158,14 @@ if login_done:
 
 # write data in 'Music_userdata.txt':
 
-    with open('C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Music_userdata.txt','r') as file:
+    with open('<your_relative_path>/Music_userdata.txt','r') as file:
         lineas = file.readlines()
 
     if not found_user: 
-        with open('C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Music_userdata.txt','a') as a: 
+        with open('<your_relative_path>/Music_userdata.txt','a') as a: 
             a.write(f"\n{user};{password};{genre_preference};{lyrics_preference};{energy_preference};{era_preference}")
 
     else:
         lineas[line_index] = f"{user};{password};{genre_preference};{lyrics_preference};{energy_preference};{era_preference}\n"
-        with open('C:/Users/usuar/Downloads/Python/Main_PYfolder/TR/Music_userdata.txt','w') as w:
+        with open('<your_relative_path>/Music_userdata.txt','w') as w:
             w.writelines(lineas)
