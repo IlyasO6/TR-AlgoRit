@@ -7,6 +7,8 @@ The main script uses the songs that are shown in "Infocançons.txt", which may n
 
 The script stores each user's data in "Music_userdata.txt". It's not the safest implementation of user data storage, specifically it is risky because of passwords, but since this was done for testing for the Research Work, there's a lot of things lacking for actual user's usability and safety. Nonetheless, changing this document by a proper database isn't particularly hard, because the code just calls for the document 2 times: when retrieving data and when storing it.
 
-Finally, for the UI, the script requires the images in "Images.zip" to display everything correctly. 
+For the UI, the script requires the images in "Images.zip" to display everything correctly. 
+
+Finally, remember to replace all the <your_relative_path> for the path to the correspondent file.
 
 And that's everything you should know to have no problems using this program.
