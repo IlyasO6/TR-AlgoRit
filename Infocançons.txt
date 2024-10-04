@@ -1,0 +1,81 @@
+Collard Greens,BLUES/JAZZ,Collard-Greens.wav,Freddie McCoy,0,Mig,SibM,1960
+Ginebra Y Blues,BLUES/JAZZ,Ginebra Y Blues.wav,Petrolera Boogie Band,0.3,Mig,LM,2000
+Gloria,BLUES/JAZZ,Gloria.wav,Van Morrison,0.5,Alt,LM,1990
+Hobo Blues,BLUES/JAZZ,Hobo Blues.wav,John Lee Hooker,0.5,Mig,LM,1960
+I Can_t Be Satisfied,BLUES/JAZZ,I Can_t Be Satisfied.wav,Muddy Waters,0.5,Mig,Sm,1940
+My Train,BLUES/JAZZ,My Train.wav,Merl Saunders,0,Mig,Sibm,1960
+Promesas de Ayer,BLUES/JAZZ,Promesas de Ayer.wav,Los Mentidores,0.4,Alt,Sm,2000
+Rock Me Baby,BLUES/JAZZ,Rock Me Baby.wav,B. B. King,0.2,Mig,Sibm,1960
+So Many Roads,BLUES/JAZZ,So Many Roads.wav,John Mayall & The Bluesbreakers,0.2,Alt,Fm,1980
+Soy un Hombre enfermo,BLUES/JAZZ,Soy un Hombre enfermo.wav,Los DelTonos,0.3,Mig,Lm,1990
+You can_t sit down,BLUES/JAZZ,You can_t sit down.wav,Chris Columbo,0,Mig,FM,1960
+You Win I Lose,BLUES/JAZZ,You Win I Lose.wav,Little Johnny Taylor,0.4,Mig,DM,1960
+Ave Maria,CLASSICA,Ave Maria.wav,F. Schubert,0.9,Lent,SbM,1800
+Cello Suite nº1 - Prelude,CLASSICA,Cello Suite n1 - Prelude.wav,J. S. Bach,0,Lent,SM,1700
+Concierto para Viola y Orquesta de Cuerda Con Aire Andaluz,CLASSICA,Concierto para Viola y Orquesta de Cuerda Con Aire Andaluz.wav,Víctor Ortiz,0,Lent,Sm,2000
+Hungarian Dance No. 5,CLASSICA,Hungarian Dance No. 5 .wav,J. Brahms,0,Alt,Sm,1800
+La Primavera - Mvmt 1,CLASSICA,La Primavera - Mvmt 1.wav,A. Vivaldi,0,Alt,MM,1700
+The Planets Mars,CLASSICA,The Planets_ Mars.wav,Gustav Holst,0,Mig,Dm,1900
+O fortuna,CLASSICA,O fortuna.wav,C. Orff,0.9,Alt,Rm,1930
+Obertura Guillermo Tell,CLASSICA,Obertura Guillermo Tell.wav,G. Rossini,0,Mig,MM,1800
+Palladio,CLASSICA,Palladio.wav,K. Jenkins,0,Mig,RM,1990
+Prelude in G Minor Op. 23 No. 5,CLASSICA,Prelude in G Minor Op. 23 No. 5.wav,S. Rakhmàninov,0,Mig,Sm,1900
+Rondo Alla Turca,CLASSICA,Rondo Alla Turca.wav, W. A. Mozart,0,Alt,Lm,1700
+Symphony No. 5 - Mvmt 1,CLASSICA,Symphony No. 5 - Mvmt 1.wav,L. van Beethoven,0,Mig,Dm,1800
+Trumpet Voluntary,CLASSICA,Trumpet Voluntary.wav,H. Purcell,0,Mig,RM,1700
+Vals de les Flors,CLASSICA,Vals de las Flores.wav,P. I. Txaikovski,0,Lent,RM,1900
+Adventure,ELECTRO,Adventure.wav,JJD,0,Mig,SiM,2010
+Alium,ELECTRO,Alium.wav,Omina,0,Molt Alt,Fm,2020
+Cradles,ELECTRO,Cradles.wav,Sub Urban,0.5,Mig,Sibm,2010
+Fearless,ELECTRO,Fearless.wav,Lost Sky,0.1,Mig,LbM,2010
+Invincible,ELECTRO,Invincible.wav,Deaf Kev,0.1,Mig,LbM,2010
+Jackpot,ELECTRO,Jackpot.wav,TheFatRat,0,Mig,SM,2010
+Latency Lizard,ELECTRO,Latency Lizard.wav,CJ Mattias,0,Mig,Mm,2020
+Let_s Go!,ELECTRO,Let_s Go!.wav,Lensko,0,Alt,LbM,2010
+Link,ELECTRO,Link.wav,JimYosef,0,Mig,LbM,2010
+Native,ELECTRO,Home-Odyssey-02Native.wav,Home,0,Mig,MbM,2010
+New Style,ELECTRO,New Style.wav,Droptek,0,Mig,Fm,2010
+On & On,ELECTRO,On _ On.wav,Cartoon,0.3,Mig,SiM,2010
+Time Lapse,ELECTRO,Time Lapse.wav,TheFatRat,0,Alt,Sim,2010
+Xenogenesis,ELECTRO,Xenogenesis.wav,TheFatRat,0,Alt,Sibm,2010
+Agua sala,POP,Agua sala.wav,Paula Piñero,0.4,Mig,Fm,2020
+All For You,POP,All For You.wav,Years & Years,0.5,Mig,MM,2010
+Aquella niña,POP,Aquella nina.wav,Paula Piñero,0.5,Lent,DM,2020
+Cuentame Un Cuento,POP,Cuentame Un Cuento.wav,Celtas Cortos,0.4,Mig,RM,1990
+Hero,POP,Hero.wav,CHEMIA,0.4,Mig,Dm,2010
+I Want Out,POP,I Want Out.wav,Young Guns,0.4,Alt,SiM,2010
+Insomnia,POP,Insomnia.wav,Daya,0.5,Alt,Mm,2010
+Last Song for You,POP,Last Song for You.wav,Our Walking Hour,0.5,Alt,MbM,2010
+Lost In You,POP,Lost In You.wav,Throwing Gravity,0.5,Mig,SibM,2010
+Presidente,POP,Presidente.wav,Xavier Parellada,0.4,Mig,Mm,2020
+Puerta de salida,POP,puerta de salida.wav,Paula Piñero,0.5,Mig,DM,2020
+Quiero quedarme para siempre,POP,Quiero quedarme para siempre.wav,La La Love You & RENEE,0.5,Mig,Lm,2020
+Stay Young,POP,Stay Young.wav,Maisie Peters,0.5,Mig,LM,2010
+SweetMary,POP,SweetMary.wav,Lot Musik,0.4,Mig,Sim,2010
+2MG,RAP,2MG.wav,wifisfuneral ft. Levi Carter,0.9,Alt,MbM,2010
+Alcolirykoz,RAP,Alcolirykoz.wav,Artes Verbales,0.8,Mig,Sibm,2010
+Bladadah,RAP,Bladadah.wav,Mozzy,0.8,Mig,Lm,2010
+Electro Movimiento,RAP,Electro Movimiento.wav,Calle 13,0.7,Mig,SibM,2000
+Haber Estudiao,RAP,Haber Estudiao.wav,Blake,0.7,Alt,Lbm,2020
+Keep Killin,RAP,Keep Killin.wav,G Perico & Rucci,0.8,Mig,DM,2020
+Lejos,RAP,Lejos.wav,Dano,0.4,Mig,LM,2010
+LoBailao,RAP,LoBailao.wav,Rayden,0.5,Mig,Fm,2020
+One More,RAP,One More.wav,Mike Wiki & The Alchemist,0.8,Mig,LM,2020
+Oye Compay,RAP,Oye Compay.wav,La Excepcion,0.6,Mig,Lm,2000
+pwf,RAP,pwf.wav,redveil,0.6,Alt,LM,2020
+Rap City,RAP,Rap CIty.wav,femdot feat. Smino,0.6,Alt,Lm,2010
+Sour,RAP,Sour.wav,Lou The Human,0.5,Mig,Mm,2010
+Versos Intimos,RAP,Versos Intimos.wav,Suko,0.6,Mig,Sm,2000
+Be Your Man,ROCK,Be Your Man.wav,DemobHappy,0.5,Mig,DM,2010
+De hoy no pasa,ROCK,De hoy no pasa.wav,Siniestro Total,0.2,Alt,Lm,1980
+Down Rodeo,ROCK,Down Rodeo.wav,Rage Against The Machine,0.3,Mig,Mm,1990
+Dream On,ROCK,Dream On.wav,Nazareth,0.4,Mig,RM,1980
+Extraños En El Escaparate,ROCK,Extranos En El Escaparate.wav,Miguel Rios,0.3,Mig,Sibm,1980
+Footstompin Music,ROCK,Footstompin Music.wav,Grand Funk Railroad,0.1,Mig,Dm,1970
+La dama del mar,ROCK,La dama del mar.wav,Mago de Oz,0.3,Alt,Sim,2020
+Once Bitten Twice Shy,ROCK,Once Bitten Twice Shy.wav,Great White,0.3,Alt,Dm,1980
+Out of the Black,ROCK,Out of the Black.wav,Royal Blood,0.3,Alt,Rm,2010
+Quiero mas,ROCK,Quiero mas.wav,Los Ronaldos,0.3,Alt,LM,1980
+Superstition,ROCK,Superstition.wav,Phil X and The Drills,0.2,Mig,Mm,2010
+Tell Me When It’s Too Late,ROCK,Tell Me When Its Too Late.wav,Royal Blood,0.5,Mig,Rm,2020
+We’re Not Gonna Take It,ROCK,We re Not Gonna Take It.wav,Twisted Sister,0.3,Alt,MM,1980
